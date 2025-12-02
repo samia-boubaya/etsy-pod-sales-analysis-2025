@@ -1,2 +1,2 @@
-# etsy-pod-sales-analysis-2025
-Data-driven analysis of Etsy’s Print-on-Demand tote bag market in 2025, exploring top-selling designs, pricing trends, seasonal demand, and product features. Provides actionable insights for designers and small business owners to optimize POD strategies.
+# project_03-Etsy-POD-Trends
+Analyze Print-on-Demand (POD) demand using Google Trends and Etsy web scraping. Identify popular products, best-selling titles, and seasonal patterns to discover profitable POD niches for launching or scaling an online business.
