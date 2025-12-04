@@ -10,7 +10,7 @@ This project analyzes Etsy listing data to answer key questions such as:
 * What are the top 5 niches?
 * Which price ranges convert best?
 * What title keywords dominate?
-* How does demand change across the year?
+* What product niches sell the most?
 
 ## 📊 Key Insights
 
