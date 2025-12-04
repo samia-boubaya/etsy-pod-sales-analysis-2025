@@ -41,12 +41,6 @@ This project analyzes Etsy listing data to answer key questions such as:
 * Étiquettes
 * Décorations
 
-### **Tote Bags**
-
-* High average & median sales
-* Strong year-round performance, rising in summer
-* Best price range: €10–€20
-* Strong keywords: fourretout, cadeau, personnalisé
 
 ## 💼 Business Recommendations
 
